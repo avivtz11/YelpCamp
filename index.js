@@ -51,6 +51,6 @@ app.use("/campgrounds/:id/comments",commentRoutes);
 var port = process.env.PORT || 3000;
 var ip = process.env.IP || "localhost";
 
-app.listen(process.env.PORT,process.env.IP,function(){
+app.listen(process.env.PORT || 3000 ,process.env.IP || "localhost" ,function(){
     console.log("server started");
 });
