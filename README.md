@@ -9,4 +9,4 @@ Camping sites reviews site
 
 -Using bootstrap
 
--Developed along the udemy course The Web Developer Bootcamp (by Colt Steele)
+-Developed along the udemy course The Web Developer Bootcamp (by Colt Steele) and currently undeployed
